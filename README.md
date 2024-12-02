@@ -1,4 +1,4 @@
-<iframe src="http://localhost:3000/d-solo/rYdddlPWk/node-exporter-full?orgId=1&from=1733105077921&to=1733126677922&timezone=browser&var-datasource=fe4priykv6rk0e&var-job=Contabo-Europe-Server&var-node=157.173.108.197:9100&var-diskdevices=%5Ba-z%5D%2B%7Cnvme%5B0-9%5D%2Bn%5B0-9%5D%2B%7Cmmcblk%5B0-9%5D%2B&panelId=74&__feature.dashboardSceneSolo" width="450" height="200" frameborder="0"></iframe>
+
 # public-image-mirror
 
 [![Sync](https://github.com/DaoCloud/public-image-mirror/raw/gh-pages/daocloud-sync-badge.svg)](https://github.com/DaoCloud/public-image-mirror/raw/gh-pages/daocloud-sync.log)
