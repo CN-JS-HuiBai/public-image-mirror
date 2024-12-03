@@ -1,4 +1,4 @@
-![https://grafana.cloudyun.top/render/d-solo/rYdddlPWk/node-exporter-full?orgId=1&panelId=74&width=1000&height=500&tz=Asia%2FShanghai]()
+![LOGO](https://grafana.cloudyun.top/render/d-solo/rYdddlPWk/node-exporter-full?orgId=1&panelId=74&width=1000&height=500&tz=Asia%2FShanghai)
 # public-image-mirror
 
 [![Sync](https://github.com/DaoCloud/public-image-mirror/raw/gh-pages/daocloud-sync-badge.svg)](https://github.com/DaoCloud/public-image-mirror/raw/gh-pages/daocloud-sync.log)
